@@ -36,4 +36,8 @@ All tests will be performed usuing node index.
 This README was generated with ❤️ by [README-generator](https://github.com/Studzic) ❤️
 
 ## Functionality
-https://user-images.githubusercontent.com/72447285/107887018-53517680-6ed1-11eb-81bc-502f147a0666.mp4
+
+
+
+https://user-images.githubusercontent.com/72447285/107887251-c90a1200-6ed2-11eb-9c46-74f79d85fea8.mp4
+![Untitled_ Feb 14, 2021 2_39 PM](https://user-images.githubusercontent.com/72447285/107887295-0bcbea00-6ed3-11eb-9248-1190307dbd5b.gif)
