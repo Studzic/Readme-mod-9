@@ -37,8 +37,8 @@ This README was generated with ❤️ by [README-generator](https://github.com/S
 
 ## Functionality
 
-
-
+💥
+💥[FullScreen Video Link](https://user-images.githubusercontent.com/72447285/107887251-c90a1200-6ed2-11eb-9c46-74f79d85fea8.mp4)💥
 
 ![Untitled_ Feb 14, 2021 2_39 PM](https://user-images.githubusercontent.com/72447285/107887295-0bcbea00-6ed3-11eb-9248-1190307dbd5b.gif)
-[FullScreen Video Link](https://user-images.githubusercontent.com/72447285/107887251-c90a1200-6ed2-11eb-9c46-74f79d85fea8.mp4)
+
