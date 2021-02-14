@@ -1,14 +1,27 @@
 {
-  "name": "static-site",
+  "name": "readme_gen",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is a readme generator that will create a markdown form based on user input",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Studzic/Readme-mod-9.git"
+  },
+  "keywords": [
+    "Readme",
+    "Generator"
+  ],
+  "author": "Austin Dudzic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Studzic/Readme-mod-9/issues"
+  },
+  "homepage": "https://github.com/Studzic/Readme-mod-9#readme"
 }
