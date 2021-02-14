@@ -1,38 +1,33 @@
 
-  <!DOCTYPE html>
-  <html lang="en">
+<h1 align="center">🎇Readme Generator🎇</h1>
 
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Portfolio Demo</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Public+Sans:300i,300,500&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
-  </head>
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+## Description
+ ✉This is a readme generator to help those who are not familiar with markdown.✉
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+## Installation
+ 💠You will have to download node and the inquirer package.💠
+## Usage
+👥To create a dynamic readme👥
+## License
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+<br />
+This application is covered by the MIT license. 
+## Contributing members
+ Google and I
 
-  <body>
-    <header>
-      <div class="container flex-row justify-space-between align-center py-3">
-        <h1 class="page-title text-secondary bg-dark py-2 px-3">Austin</h1>
-        <nav class="flex-row">
-          <a class="ml-2 my-1 px-2 py-1 bg-secondary text-dark" href="https://github.com/Studzic">GitHub</a>
-        </nav>
-      </div>
-    </header>
-    <main class="container my-5">
-    
-  <section class="my-3" id=about">
-  <h22 class="text-dark bg-primary p-2 display-inline-block"> About Me</h2>
-  <p>no</p>
-  </section>
-
-          
-    </main>
-    <footer class="container text-center py-3">
-      <h3 class="text-dark">&copy; 2021 by Austin</h3>
-    </footer>
-  </body>
-  </html>
+## Questions
+⁉ Austin Dudzic <br />⁉
+<br />
+:octocat: Find me on GitHub: [Studzic](https://github.com/Studzic)<br />
+<br />
+✉️ Email me with any questions: austin.dudzic@gmail.com<br /><br />✉️ 
+_This README was generated with ❤️ by [README-generator](https://github.com/Studzic) ❤️
   
