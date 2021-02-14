@@ -11,6 +11,7 @@
 - [Contributing ](#Contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+- [Functionality](#functionality)
 ## Description
  ✉This is a readme generator to help those who are not familiar with markdown.✉
 ## Installation
@@ -33,3 +34,6 @@ All tests will be performed usuing node index.
 <br />
 💯 Email me with any questions: austin.dudzic@gmail.com💯<br /><br />
 This README was generated with ❤️ by [README-generator](https://github.com/Studzic) ❤️
+
+## Functionality
+https://user-images.githubusercontent.com/72447285/107887018-53517680-6ed1-11eb-81bc-502f147a0666.mp4
