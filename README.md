@@ -27,9 +27,9 @@ This application is covered by the MIT license.
 ## Tests
 All tests will be performed usuing node index.
 ## Questions
-⁉ Austin Dudzic⁉<br />
-<br />
+⁉Austin Dudzic⁉<br />
+<br/>
 🙋‍♂️ Find me on GitHub: [Studzic](https://github.com/Studzic)<br />
 <br />
-💯 Email me with any questions: austin.dudzic@gmail.com<br /><br />💯
+💯 Email me with any questions: austin.dudzic@gmail.com💯<br /><br />
 This README was generated with ❤️ by [README-generator](https://github.com/Studzic) ❤️
